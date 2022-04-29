@@ -5,4 +5,5 @@ public class ShopeeDelivery extends Delivery {
         name = "Shopee";
         price = 19;
     }
+
 }
